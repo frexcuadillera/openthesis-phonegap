@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+}
+
+#header{
+	background-color: blue;
+	color: white;
+	padding: 5vw;
+}
